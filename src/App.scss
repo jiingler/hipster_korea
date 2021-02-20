@@ -1,0 +1,83 @@
+.navbar {
+  background-color: black !important;
+  .container {
+    justify-content: space-between !important;
+    @media (min-width: 768px) {
+      h1 {
+        font-size: 2rem;
+      }
+    }
+  }
+}
+.logo {
+  display: block;
+}
+.h1 {
+  font-family: "Lobster", cursive;
+  color: white !important;
+}
+
+.info-img {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  padding: 3px;
+  img {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+.brand {
+  background-color: #cccccc;
+  display: block;
+  color: black;
+  border-radius: 5px;
+  &-list {
+    background-color: #dfdfdf;
+  }
+  &-img {
+    background-color: #fff;
+    object-fit: scale-down;
+    height: 100px;
+    width: 100%;
+  }
+  &-name {
+    text-decoration: none;
+  }
+  &-desc {
+    font-size: 12px;
+  }
+  &-tag {
+    background-color: #8f8f8f;
+  }
+}
+
+.footer {
+  background-color: #5f5f5f;
+  .ins-link {
+    color: #fff;
+    font-family: "Lobster", cursive;
+    &:hover p {
+      color: #fff;
+      text-decoration: underline;
+    }
+  }
+  .ins-img {
+    width: 36px;
+    height: 36px;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: #fff;
+    img {
+      width: 30px;
+      height: 30px;
+    }
+  }
+  .copyright {
+    a:hover {
+      color: #fff;
+      text-decoration: underline;
+    }
+  }
+}

@@ -1,0 +1,20 @@
+// $primary: #ec8735 !important;
+
+.btn,
+.btn-check,
+.btn-dark {
+  &:focus {
+    box-shadow: none !important;
+  }
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  &:hover {
+    h5 {
+      text-decoration: underline;
+    }
+    color: black;
+  }
+}
