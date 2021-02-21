@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/hipster_korea/static/css/main.63632064.chunk.css",
-    "main.js": "/hipster_korea/static/js/main.d6f507fb.chunk.js",
-    "main.js.map": "/hipster_korea/static/js/main.d6f507fb.chunk.js.map",
-    "runtime-main.js": "/hipster_korea/static/js/runtime-main.901641db.js",
-    "runtime-main.js.map": "/hipster_korea/static/js/runtime-main.901641db.js.map",
-    "static/js/2.78778a77.chunk.js": "/hipster_korea/static/js/2.78778a77.chunk.js",
-    "static/js/2.78778a77.chunk.js.map": "/hipster_korea/static/js/2.78778a77.chunk.js.map",
-    "static/js/3.2863bf98.chunk.js": "/hipster_korea/static/js/3.2863bf98.chunk.js",
-    "static/js/3.2863bf98.chunk.js.map": "/hipster_korea/static/js/3.2863bf98.chunk.js.map",
+    "main.css": "/hipster_korea/static/css/main.1a808feb.chunk.css",
+    "main.js": "/hipster_korea/static/js/main.2c3b9a16.chunk.js",
+    "main.js.map": "/hipster_korea/static/js/main.2c3b9a16.chunk.js.map",
+    "runtime-main.js": "/hipster_korea/static/js/runtime-main.70a487b3.js",
+    "runtime-main.js.map": "/hipster_korea/static/js/runtime-main.70a487b3.js.map",
+    "static/js/2.b0e3e7c8.chunk.js": "/hipster_korea/static/js/2.b0e3e7c8.chunk.js",
+    "static/js/2.b0e3e7c8.chunk.js.map": "/hipster_korea/static/js/2.b0e3e7c8.chunk.js.map",
+    "static/js/3.7e73a7af.chunk.js": "/hipster_korea/static/js/3.7e73a7af.chunk.js",
+    "static/js/3.7e73a7af.chunk.js.map": "/hipster_korea/static/js/3.7e73a7af.chunk.js.map",
     "index.html": "/hipster_korea/index.html",
-    "static/css/main.63632064.chunk.css.map": "/hipster_korea/static/css/main.63632064.chunk.css.map",
-    "static/js/2.78778a77.chunk.js.LICENSE.txt": "/hipster_korea/static/js/2.78778a77.chunk.js.LICENSE.txt",
+    "static/css/main.1a808feb.chunk.css.map": "/hipster_korea/static/css/main.1a808feb.chunk.css.map",
+    "static/js/2.b0e3e7c8.chunk.js.LICENSE.txt": "/hipster_korea/static/js/2.b0e3e7c8.chunk.js.LICENSE.txt",
     "static/media/info.c242312f.svg": "/hipster_korea/static/media/info.c242312f.svg",
     "static/media/instagram.482d4132.svg": "/hipster_korea/static/media/instagram.482d4132.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.901641db.js",
-    "static/js/2.78778a77.chunk.js",
-    "static/css/main.63632064.chunk.css",
-    "static/js/main.d6f507fb.chunk.js"
+    "static/js/runtime-main.70a487b3.js",
+    "static/js/2.b0e3e7c8.chunk.js",
+    "static/css/main.1a808feb.chunk.css",
+    "static/js/main.2c3b9a16.chunk.js"
   ]
 }
