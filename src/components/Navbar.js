@@ -1,5 +1,5 @@
 import infoImg from '../assets/images/info.svg';
-const Navbar = () => {
+const Navbar = ({handleInfoClick}) => {
   return (
     <nav className="navbar navbar-light bg-light">
       <div className="container d-flex justify-content-between">
@@ -7,7 +7,7 @@ const Navbar = () => {
           <h1 className="navbar-brand mb-0 h1 justify-content-center">hipster.korea</h1>
         </a>
         <div className="d-flex align-items-center">
-          <a className="info-img bg-light">
+          <a className="info-img bg-light" onClick={()=> handleInfoClick()}>
             <img src={infoImg} alt="info"/>
           </a>
         </div>

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "imgUrl": "tenbyten",
+      "link": "https://www.10x10.co.kr/",
+      "name": "tenbyten",
+      "description": "韓國設計小物，手機殼、筆記本、帆布袋、文具等各式各樣小物這裡都有。",
+      "keywords": ["設計小物", "各種文具", "3C保護殼", "3C保護包", "提袋", "水杯", "筆記本"],
+      "categories": ["設計小物"]
+    },
+    {
+      "id": 2,
+      "imgUrl": "abcmart",
+      "link": "https://abcmart.a-rt.com/",
+      "name": "ABC Mart",
+      "description": "ABC-Mart，跟台灣賣的品牌差不多，但還有韓國獨有的品項和比較實惠的價格。",
+      "keywords": ["休閒鞋", "運動鞋", "皮鞋", "襪子", "帽子", "衣服", "褲子", "提包", "背包"],
+      "categories": ["服飾", "鞋子", "帽子", "包包"]
+    },
+    {
+      "id": 3,
+      "imgUrl": "folder",
+      "link": "https://www.folderstyle.com/",
+      "name": "FOLDER",
+      "description": "這裡有最流行的韓國鞋子單品，也有韓國當地的潮牌。",
+      "keywords": ["休閒鞋", "運動鞋", "皮鞋", "襪子", "帽子", "衣服", "褲子", "提包", "背包"],
+      "categories": ["服飾", "鞋子", "帽子", "包包"]
+    },
+    {
+      "id": 4,
+      "imgUrl": "shoopen",
+      "link": "https://shoopen.elandmall.com/main/initMain.action",
+      "name": "슈펜",
+      "description": "網路商店比實體店面有更多折扣，還不快逛起來！",
+      "keywords": ["休閒鞋", "運動鞋", "皮鞋", "襪子", "帽子", "衣服", "褲子", "提包", "背包"],
+      "categories": ["服飾", "鞋子", "帽子", "包包"]
+    },
+    {
+      "id": 5,
+      "imgUrl": "musinsa",
+      "link": "https://store.musinsa.com/app/?_gf=A",
+      "name": "무신사",
+      "description": "韓國年輕人最愛逛的選貨店，衣服鞋子包包，穿的戴的，裡面外面全都可以在這裡買到。",
+      "keywords": ["男女裝", "上衣", "外套", "下衣", "西裝", "鞋", "ACC", "包包", "帽子", "飾品"],
+      "categories": ["服飾", "鞋子", "帽子", "包包"]
+    },
+    {
+      "id": 6,
+      "imgUrl": "29cm",
+      "link": "https://www.29cm.co.kr/home/",
+      "name": "29cm",
+      "description": "質感選貨店，想要更成熟一點的單品，歡迎來這裡選購。",
+      "keywords": ["男女裝", "上衣", "外套", "下衣", "西裝", "鞋", "ACC", "包包", "帽子", "飾品"],
+      "categories": ["服飾", "鞋子", "帽子", "包包"]
+    },
+    {
+      "id": 7,
+      "imgUrl": "wconcept",
+      "link": "https://www.wconcept.co.kr/",
+      "name": "W Concept",
+      "description": "女生的商品為大宗，逛著逛著可能會得到驚喜或者驚人的打折幅度。",
+      "keywords": ["男女裝", "上衣", "外套", "下衣", "西裝", "鞋", "ACC", "包包", "帽子", "飾品"],
+      "categories": ["服飾", "鞋子", "帽子", "包包"]
+    },
+    {
+      "id": 8,
+      "imgUrl": "hanna543",
+      "link": "https://hanna543.com/",
+      "name": "Hanna543",
+      "description": "BTS同款銀飾，阿米買起來！",
+      "keywords": ["手鍊", "項鍊", "耳環", "戒指", "腳鍊"],
+      "categories": ["飾品"]
+    },
+    {
+      "id": 9,
+      "imgUrl": "juuneedu",
+      "link": "https://juuneedu.com/index.html",
+      "name": "Juuneedu",
+      "description": "網紅推薦睡衣品牌！",
+      "keywords": ["睡衣", "派對帽", "洗臉髮帶", "室內拖鞋"],
+      "categories": ["服飾"]
+    },
+    {
+      "id": 10,
+      "imgUrl": "dinotaeng",
+      "link": "https://dinotaeng.com/",
+      "name": "Dinotaeng",
+      "description": "在台很紅的韓國插畫小熊品牌！",
+      "keywords": ["設計小物", "貼紙", "3C保護殼", "3C保護包", "收納袋", "馬克杯", "筆記本"],
+      "categories": ["設計小物"]
+    },
+    {
+      "id": 11,
+      "imgUrl": "warmgreytail",
+      "link": "http://warmgreytail.com/",
+      "name": "Warmgrey Tail",
+      "description": "韓國有名的森林系插畫家品牌！",
+      "keywords": ["設計小物", "貼紙", "3C保護殼", "掛布", "收納袋", "水杯", "筆記本"],
+      "categories": ["設計小物"]
+    }
+  ]
+}

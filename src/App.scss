@@ -8,23 +8,43 @@
       }
     }
   }
-}
-.logo {
-  display: block;
-}
-.h1 {
-  font-family: "Lobster", cursive;
-  color: white !important;
+  .logo {
+    display: block;
+  }
+  .h1 {
+    font-family: "Lobster", cursive;
+    color: white !important;
+  }
+  .info-img {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    padding: 3px;
+    img {
+      width: 30px;
+      height: 30px;
+    }
+  }
 }
 
-.info-img {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  padding: 3px;
-  img {
-    width: 30px;
-    height: 30px;
+.keyword-input {
+  width: 250px;
+}
+
+.item-btn {
+  font-size: 12px;
+  @media (min-width: 768px) {
+    font-size: 1rem;
+  }
+}
+
+.korean-field {
+  font-size: 18px;
+  @media (min-width: 768px) {
+    font-size: 2rem;
+    button {
+      font-size: 2rem;
+    }
   }
 }
 
