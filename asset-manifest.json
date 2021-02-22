@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hipster_korea/static/css/main.3c3b6105.chunk.css",
-    "main.js": "/hipster_korea/static/js/main.c905c9d9.chunk.js",
-    "main.js.map": "/hipster_korea/static/js/main.c905c9d9.chunk.js.map",
+    "main.js": "/hipster_korea/static/js/main.db9cc24f.chunk.js",
+    "main.js.map": "/hipster_korea/static/js/main.db9cc24f.chunk.js.map",
     "runtime-main.js": "/hipster_korea/static/js/runtime-main.f7ba3ee7.js",
     "runtime-main.js.map": "/hipster_korea/static/js/runtime-main.f7ba3ee7.js.map",
     "static/js/2.76660720.chunk.js": "/hipster_korea/static/js/2.76660720.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.f7ba3ee7.js",
     "static/js/2.76660720.chunk.js",
     "static/css/main.3c3b6105.chunk.css",
-    "static/js/main.c905c9d9.chunk.js"
+    "static/js/main.db9cc24f.chunk.js"
   ]
 }
