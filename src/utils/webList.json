@@ -98,6 +98,15 @@
       "description": "韓國有名的森林系插畫家品牌！",
       "keywords": ["設計小物", "貼紙", "3C保護殼", "掛布", "收納袋", "水杯", "筆記本"],
       "categories": ["設計小物"]
+    },
+    {
+      "id": 12,
+      "imgUrl": "theninemall",
+      "link": "https://m.theninemall.com/",
+      "name": "THE NINEMALL",
+      "description": "更平價、更多樣的韓國設計小物！",
+      "keywords": ["設計小物", "貼紙", "3C保護殼", "掛布", "收納袋", "水杯", "筆記本"],
+      "categories": ["設計小物"]
     }
   ]
 }

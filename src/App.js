@@ -47,7 +47,7 @@ function App() {
       <Navbar handleInfoClick={handleInfoClick}/>
       <KeywordInput keyword={keyword} />
       <ButtonsField handleKeywordClick={handleKeywordClick} handleItemButtonClick={handleItemButtonClick} />
-      {keywordKorean !== '' && <KoreanField keywordKorean={keywordKorean}/>}
+      {keywordKorean.length !== 0 && <KoreanField keywordKorean={keywordKorean}/>}
       <div className="brand-list py-md-5 py-4">
         <div className="container">
           <h3 className="text-center mb-md-5 mb-3">品牌清單</h3>

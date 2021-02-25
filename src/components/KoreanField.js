@@ -11,8 +11,11 @@ const KoreanField = ({keywordKorean}) => {
   };
 
   return (
-    <div id="korean-field" className="korean-field text-center mb-md-5 mb-4">
-      {keywordKorean.length > 0 && '關鍵字韓文：'}
+    <div id="korean-field" className="korean-field text-center mb-md-5 mb-4 d-flex justify-content-center">
+      <div className="d-flex flex-column justify-content-center me-2">
+        <p className="mb-0">關鍵字韓文：</p>
+        <span>（點擊可以複製）</span>
+      </div>
       {keywordKorean.length > 0 && keywordKorean.map((word, idx) => {
         return (
         <CopyToClipboard onCopy={onCopy} text={word} key={idx}>
